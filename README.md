@@ -1,3 +1,3 @@
-# IPTS-data
+# EVCN-data
 
-This is data of IPTS in paper to be published.
+This is data of EVCN in paper to be published.
