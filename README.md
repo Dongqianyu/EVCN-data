@@ -1,3 +1,3 @@
 # EVCN-data
 
-This is data of EVCN in paper to be published.
+These are the data for the EVCN in the paper.
